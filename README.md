@@ -6,7 +6,7 @@ This project analyzes how hallucinated inputs affect the behavior and plasticity
 - GPT-3.5 (OpenAI)
 - BERT (HuggingFace)
 - DistilBERT (HuggingFace)
-- RoBERT (HuggingFace)
+- RoBERTa (HuggingFace)
 
 ## Key Metrics:
 - Baseline Accuracy
